@@ -7,7 +7,6 @@
 - 🔭 I’m currently studing Computer Science at Universidade Estadual do Centro-Oeste
 - 🌱 I’m currently learning UX/UI Design
 - 🤔 I’m looking for help with BackEnd development
-- 📫 How to reach me: matheus.debtilsouza@gmail.com or IG: @debtil02
 - 😄 Pronouns: he/him
 
 
