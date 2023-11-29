@@ -1,7 +1,7 @@
 #👋 Hello! Welcome to my GitHub profile.
 ## My name is Matheus Debtil Souza and my nickname is "debtil"!
 
-![Snake animation](https://github.com/debtil/debtil/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/debtil/debtil/blob/output/github-contribution-grid-snake.svg)
 
 
 - 🔭 I’m currently studing Computer Science at Universidade Estadual do Centro-Oeste
