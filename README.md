@@ -2,10 +2,11 @@
 ## My name is Matheus Debtil Souza and my nickname is "debtil"!
 
 
-- 🔭 I’m currently studing Computer Science at Universidade Estadual do Centro-Oeste
-- 🌱 I’m currently learning BackEnd development
-- 🤔 I’m looking for help with Ruby
-- 😄 Pronouns: he/him
+- 👨‍💻 I currently work as a web developer at Visual Software;
+- 🔭 I have a degree in Computer Science at Universidade Estadual do Centro-Oeste;
+- 🌱 I’m currently learning BackEnd development;
+- 🤔 I’m looking for help with C# and .NET;
+- 😄 Pronouns: he/him;
 
 ## Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
